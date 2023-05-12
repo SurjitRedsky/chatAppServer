@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.3"
+  },
+  "name": "chatapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "surjit",
+  "license": "ISC",
+  "description": ""
+}
